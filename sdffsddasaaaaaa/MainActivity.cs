@@ -23,6 +23,7 @@ namespace sdffsddasaaaaaa
 			Console.WriteLine ("safdfdgfrg");
 			Console.WriteLine ("hello");
 			Console.WriteLine ("hellosfdsdggd");
+			Console.WriteLine ("hgsvfhgvfhgvfghf");
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
